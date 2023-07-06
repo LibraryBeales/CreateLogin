@@ -13,7 +13,3 @@
 ![Alt text](/images/Screenshot-5.jpg?raw=true "Constellate Home Screen Logged In")
 
 
-## Project #1: Making an HTTP Request and Receiving a Response
-<span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="#">LINK</a></span>
-
-## Project #2: Exploring and Analyzing Data from Web Scraping 
