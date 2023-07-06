@@ -3,7 +3,7 @@
 1. Navigate to <a href="http://constellate.org">constellate.org</a>
 2. Click on Login on the top right.
 
-<p>!/images/Screenshot-1.jpg</p>
+![111](/CreateLogin/images/Screenshot-1.png)
 
 <img src="/images/Screenshot-1.jpg" alt="Constellate Home Screen">
 3. Click on the 'register one' link above the login field.
