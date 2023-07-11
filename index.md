@@ -6,6 +6,7 @@
 ![111](/CreateLogin/images/Screenshot-1.png)
 
 <img src="/CreateLogin/images/Screenshot-1.jpg" alt="Constellate Home Screen" style="width:300px;">
+
 3. Click on the 'register one' link above the login field.
 
 ![111](/CreateLogin/images/Screenshot-2.png)
